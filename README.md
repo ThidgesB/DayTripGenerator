@@ -1,1 +1,2 @@
 # DayTripGenerator
+test
